@@ -1,0 +1,40 @@
+body{
+    background-color: #3b5998;
+}
+.form{
+    margin-left: 33.33%;
+    margin-right: 33.33%;
+}
+img{
+    margin-top: 10%;
+    margin-left: 33.33%;
+    margin-right: 33.33%;
+    height:10%;
+    width:34%;
+}
+.btnn{
+    border:0;
+    background-color: #8b9dc3;
+    margin-top: 1%;
+    margin-bottom: 10%;
+    margin-left: 33.33%;
+    margin-right: 33.33%;
+    width:33.5%
+    
+}
+
+.txt1, .txt2 {
+    margin-top: 10%;
+    margin-left: 44.33%;
+    margin-right: 33.33%;
+}
+a{
+    color: white;
+}
+a:hover{
+    color:white;
+}
+.txt2{
+    margin-left: 46.6%;
+    margin-top: 3%;
+}
